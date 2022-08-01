@@ -3,3 +3,12 @@ body {
   height: 100%;
   margin: 0;
 }
+div {
+  height: 1px;
+}
+#heading{
+  text-align: center;
+}
+#coach{
+  margin: 15%;
+}
